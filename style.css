@@ -1,0 +1,44 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.background {
+    background-image: url('(link unavailable)');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.judul {
+    font-size: 48px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.kalimat {
+    font-size: 24px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.tombol {
+    background-color: #ff69b4;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.tombol:hover {
+    background-color: #ff99cc;
+});
+
